@@ -18,3 +18,7 @@ html {
     font-size: 12px;
   }
 }
+::selection {
+  background-color: $color-primary;
+  color: $color-white;
+}
